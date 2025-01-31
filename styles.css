@@ -1,0 +1,7 @@
+body { margin: 0; font-family: Arial, sans-serif; }
+canvas { display: block; }
+.info { position: absolute; top: 10px; left: 10px; color: white; z-index: 10; }
+.project { padding: 10px; cursor: pointer; color: white; }
+.project h3 { margin: 0; }
+.project p { margin: 5px 0 0 0; }
+.project-container { position: absolute; bottom: 10px; left: 10px; right: 10px; z-index: 10; display: flex; justify-content: space-around; }
